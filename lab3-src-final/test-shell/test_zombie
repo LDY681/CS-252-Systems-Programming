@@ -1,0 +1,24 @@
+#!/bin/bash
+
+rm -f shell-out
+myname=`whoami`
+echo -e "\033[1;4;93mTest_zombie: Zombie Cleanup\033[0m"
+
+before=`/bin/ps -u $myname | grep -c defunc`
+input_str=$'ls &\nls &\nls &\nls &\nls &\nls &\nls &\nsleep 5'
+../shell <<< "$input_str" > shell-out &
+
+sleep 4
+
+grep test shell-out > out2 2>&1
+if [ $? -ne 0 ]; then
+  exit -1
+fi
+
+after=`/bin/ps -u $myname | grep -c defunc`
+
+if [ $before -ne $after ]; then
+    echo -e "\033[1;31mZombie processes still around! ($before, $after)\033[0m"
+    exit -1
+fi
+exit 0

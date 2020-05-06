@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo -e "\033[1;4;93m\tEnviroment: Set and replace variable\033[0m"
+
+# test setting
+input_str=$'setenv aaa bbbb\nprintenv'
+grep aaa=bbbb <(../shell <<< "$input_str" 2>&1)
+if [ $? -ne 0 ]
+then
+    exit -1
+fi
+
+# test replacing
+input_str=$'setenv aaa bbbb\nsetenv aaa pppp\nprintenv'
+../shell <<< "$input_str" > shell-out
+# make sure that aaa=pppp explicitly overwrites aaa=bbbb
+grep aaa=pppp shell-out 2>&1 && ! grep aaa=bbbb shell-out 2>&1
+exit $?

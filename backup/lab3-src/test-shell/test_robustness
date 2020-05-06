@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo -e "\033[93m\tRobustness \033[0m"
+echo -e "\033[93m\tThe grade of this test will depend on how\033[0m"
+echo -e "\033[93m\tdifficult it is to grade your shell and\033[0m"
+echo -e "\033[93m\tsuccesfully running this script.\033[0m"
+
+touch out
+
+ls_str=$'ls\n'
+none_str=$'ls none | grep ppp\n'
+cat_str=$'cat file1.cc | grep char | grep c > out\n'
+grep_str=$'echo /d*/* | grep k\n'
+
+input_str=$ls_str
+input_str+=$cat_str$cat_str$cat_str$cat_str$cat_str$cat_str$cat_str$cat_str$cat_str
+input_str+=$grep_str$grep_str$grep_str$grep_str$grep_str
+input_str+=$none_str$none_str$none_str
+input_str+=$ls_str$ls_str$ls_str$ls_str$ls_str$ls_str$ls_str$ls_str
+
+diff <(/bin/sh <<< "$input_str" 2>&1) <(../shell <<< "$input_str" 2>&1)
+exit $?

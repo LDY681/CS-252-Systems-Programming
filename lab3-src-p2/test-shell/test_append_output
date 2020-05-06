@@ -1,0 +1,9 @@
+#!/bin/bash
+rm -f sh-out shell-out
+echo -e "\033[1;4;93m\tappending output\033[0m"
+
+sh_in=$'ls files > sh-out\nls files > sh-out\nls files >> sh-out'
+shell_in=$'ls files > shell-out\nls files > shell-out\nls files >> shell-out'
+
+diff <(/bin/sh <<< "$sh_in" 2>&1 ; cat sh-out) <(../shell <<< "$shell_in" 2>&1 ; cat shell-out)
+exit $?

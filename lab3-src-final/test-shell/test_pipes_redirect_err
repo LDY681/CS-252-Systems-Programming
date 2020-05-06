@@ -1,0 +1,11 @@
+#!/bin/bash
+
+rm -f err1 err2
+
+echo -e "\033[1;4;93m\tPipes and error redirection\033[0m"
+
+sh_in=$'cat file1.cc | ls nonexisting > err1 2>&1'
+shell_in=$'cat file1.cc | ls nonexisting >& err2'
+
+diff <(/bin/sh <<< "$sh_in" 2>&1 ; cat err1) <(../shell <<< "$shell_in" 2>&1 ; cat err2)
+exit $?

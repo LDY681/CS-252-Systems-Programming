@@ -1,0 +1,11 @@
+#! /bin/bash
+
+rm -f shell-out
+
+echo -e "\033[1;4;93m\tEnvironment Variable Expansion - \${\$}\033[0m"
+
+input_str=$'echo ${$}'
+../shell <<< "$input_str" 2>&1 > shell-out & pid=$!
+sleep 1
+diff <(cat shell-out) <(echo $pid)
+exit $?

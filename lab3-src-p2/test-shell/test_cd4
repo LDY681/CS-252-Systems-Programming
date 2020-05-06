@@ -1,0 +1,15 @@
+#!/bin/bash
+
+rm -rf err1
+echo -e "\033[1;4;93m\tcd notfound >& err\033[0m"
+
+input_str=$'cd notfound\n/bin/pwd'
+diff <(/bin/bash <<< "$input_str" 2> /dev/null) <(../shell <<< "$input_str" 2> err1)
+ret=$?
+if [ $ret -ne 0 ]
+then
+    exit -1
+fi
+
+ret=$(grep -e "cd: can't cd to notfound" err1)
+exit $?

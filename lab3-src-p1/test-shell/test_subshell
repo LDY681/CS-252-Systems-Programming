@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo -e "\033[1;4;93mTest_subshell: test subshell\033[0m"
+
+rm -f file-list-1 file-list-2
+touch file-list-1 file-list-2
+
+sh_in=$'ls . >> file-list-1\n ls -a $(cat file-list-1)'
+shell_in=$'ls . >> file-list-2\nls -a $(cat file-list-2)'
+
+diff <(/bin/sh <<< "$sh_in" 2>&1) <(../shell <<< "$shell_in" 2>&1)
+exit $?

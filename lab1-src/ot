@@ -1,0 +1,123 @@
+TEST: test_simple1.c
+INTIAL STATE
+
+FREELIST
+L58: [
+	addr: 0016
+	size: 992
+	left_size: 16
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+
+TAGS
+[
+	addr: 0000
+	size: 16
+	left_size: 16
+	allocated: fencepost
+]
+[
+	addr: 0016
+	size: 992
+	left_size: 16
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+[
+	addr: 1008
+	size: 16
+	left_size: 992
+	allocated: fencepost
+]
+Before any allocation
+[
+	addr: 0000
+	size: 16
+	left_size: 16
+	allocated: fencepost
+]
+[
+	addr: 0016
+	size: 992
+	left_size: 16
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+[
+	addr: 1008
+	size: 16
+	left_size: 992
+	allocated: fencepost
+]
+mallocing 8 bytes
+[F][U][A][F]
+mem1 = malloc(8)
+[
+	addr: 0000
+	size: 16
+	left_size: 16
+	allocated: fencepost
+]
+[
+	addr: 0016
+	size: 960
+	left_size: 16
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+[
+	addr: 0976
+	size: 32
+	left_size: 960
+	allocated: true
+]
+[
+	addr: 1008
+	size: 16
+	left_size: 992
+	allocated: fencepost
+]
+FINAL STATE
+
+FREELIST
+L58: [
+	addr: 0016
+	size: 960
+	left_size: 16
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+
+TAGS
+[
+	addr: 0000
+	size: 16
+	left_size: 16
+	allocated: fencepost
+]
+[
+	addr: 0016
+	size: 960
+	left_size: 16
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+[
+	addr: 0976
+	size: 32
+	left_size: 960
+	allocated: true
+]
+[
+	addr: 1008
+	size: 16
+	left_size: 992
+	allocated: fencepost
+]

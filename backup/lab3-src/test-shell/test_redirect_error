@@ -1,0 +1,10 @@
+#!/bin/bash
+
+rm -f err1 err2
+echo -e "\033[1;4;93m\terror redirection\033[0m"
+
+shell_in=$'ls /none >& err1'
+sh_in=$'ls /none >err2 2>&1'
+
+diff <(/bin/bash <<< "$sh_in"; cat err2) <(../shell <<< "$shell_in"; cat err1)
+exit $?

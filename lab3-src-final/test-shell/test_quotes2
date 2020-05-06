@@ -1,0 +1,17 @@
+#!/bin/bash
+
+rm -f "hello world"
+
+echo -e "\033[1;4;93m\tls \"file1.cc files\" and touch \"hello world\"\033[0m"
+
+input_str=$'ls file1.cc files\necho \"file1.cc files\"'
+diff <(/bin/sh <<< "$input_str" 2>&1) <(../shell <<< "$input_str" 2>&1)
+if [ $? -ne 0 ]
+then
+    exit -1
+fi
+
+input_str=$'touch \"hello world\"'
+../shell <<< "$input_str" 2>&1
+[ -f "hello world" ]
+exit $?

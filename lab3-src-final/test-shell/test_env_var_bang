@@ -1,0 +1,9 @@
+#! /bin/bash
+
+echo -e "\033[1;4;93m\tEnvironment Variable Expansion - \${!}\033[0m"
+
+input_str=$'sleep 1 &\nsleep 2 &\nps -u\necho ${!}'
+output=$(../shell <<< "$input_str" 2>&1)
+pid=$(echo "$output" | tail -1)
+res=$(echo "$output" | grep $pid | grep "sleep 2")
+exit $?

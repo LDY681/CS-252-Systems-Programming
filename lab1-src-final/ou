@@ -1,0 +1,104 @@
+TEST: test_coalesce_chunk_coalesce.c
+INTIAL STATE
+
+FREELIST
+L58: [
+	addr: 0016
+	size: 992
+	left_size: 16
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+
+TAGS
+[
+	addr: 0000
+	size: 16
+	left_size: 16
+	allocated: fencepost
+]
+[
+	addr: 0016
+	size: 992
+	left_size: 16
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+[
+	addr: 1008
+	size: 16
+	left_size: 992
+	allocated: fencepost
+]
+mallocing 8 bytes
+[F][U][A][F]
+mallocing 848 bytes
+[F][U][A][A][F]
+freeing 8 bytes (0960)
+[F][U][A][U][F]
+mallocing 848 bytes
+[F][U][A][U][A][F]
+FINAL STATE
+
+FREELIST
+L9: [
+	addr: 0016
+	size: 96
+	left_size: 16
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+
+L21: [
+	addr: 0976
+	size: 192
+	left_size: 864
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+
+TAGS
+[
+	addr: 0000
+	size: 16
+	left_size: 16
+	allocated: fencepost
+]
+[
+	addr: 0016
+	size: 96
+	left_size: 16
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+[
+	addr: 0112
+	size: 864
+	left_size: 96
+	allocated: true
+]
+[
+	addr: 0976
+	size: 192
+	left_size: 864
+	allocated: false
+	prev: SENTINEL
+	next: SENTINEL
+]
+[
+	addr: 1168
+	size: 864
+	left_size: 192
+	allocated: true
+]
+[
+	addr: 2032
+	size: 16
+	left_size: 864
+	allocated: fencepost
+]

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+rm -f out1 out2
+
+echo -e "\033[1;4;93m\tpipes and output redirection\033[0m"
+
+sh_in=$'cat file1.cc | grep malloc > out1'
+shell_in=$'cat file1.cc | grep malloc > out2'
+
+diff <(/bin/sh <<< "$sh_in" 2>&1 ; cat out1) <(../shell <<< "$shell_in" 2>&1 ; cat out2)
+exit $?

@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo -e "\033[1;4;93mTest_unsetenv: Enviroment: delete variable\033[0m"
+
+input_str=$'setenv aaa pppp\nprintenv\nunsetenv aaa\nprintenv'
+
+# search the output of the command for the number of occurrences of 
+# the string "aaa". There should only be one occurrence
+res=`grep -c aaa= <(../shell <<< "$input_str" 2>&1)`
+if [ $res -ne 1 ]
+then
+    exit -1
+fi
+exit 0

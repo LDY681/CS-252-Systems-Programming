@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -e "\033[1;4;93m\ttest stdin redirection\033[0m"
+
+input_str=$'cat < files/aaa'
+diff <(/bin/sh <<< "$input_str" 2>&1) <(../shell <<< "$input_str" 2>&1)
+exit $?

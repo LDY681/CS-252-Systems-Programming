@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -e "\033[1;4;93m\tcd; echo * (Wildcard + cd)\033[0m"
+
+input_str=$'cd\necho *\necho .*'
+diff <(/bin/sh <<< "$input_str" 2>&1) <(../shell <<< "$input_str" 2>&1)
+exit $?

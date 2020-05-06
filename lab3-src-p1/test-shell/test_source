@@ -1,0 +1,14 @@
+#!/bin/bash
+
+rm -f shell-in sh-in
+
+echo -e "\033[1;4;93m\ttest source\033[0m"
+
+echo -e "setenv aaa hola\necho \"You Win!\"" > shell-in
+echo -e "export aaa=hola\necho \"You Win!\"" > sh-in
+
+shell_input=$'source shell-in\necho ${aaa}'
+bash_input=$'source sh-in\necho $aaa'
+
+diff <(/bin/bash <<< "$bash_input" 2>&1) <(../shell <<< "$shell_input" 2>&1)
+exit $?

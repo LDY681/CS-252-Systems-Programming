@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -e "\033[1;4;93m\techo /usr/lib/* (One wildcard in different directory)\033[0m"
+
+input_str=$'echo /usr/lib/*'
+diff <(/bin/sh <<< "$input_str" 2>&1) <(../shell <<< "$input_str" 2>&1)
+exit $?

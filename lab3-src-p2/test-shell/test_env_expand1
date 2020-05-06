@@ -1,0 +1,7 @@
+#! /bin/bash
+
+echo -e "\033[1;4;93m\tEnvironment - Variable Expansion\033[0m"
+
+shell_str=$'setenv A hello\nsetenv B world\necho ${A} ${B}'
+diff <(echo "hello world") <(../shell <<< "$shell_str" 2>&1)
+exit $?

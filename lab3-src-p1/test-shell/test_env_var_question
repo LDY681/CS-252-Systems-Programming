@@ -1,0 +1,7 @@
+#! /bin/bash
+
+echo -e "\033[1;4;93m\tEnvironment Variable Expansion - \${?}\033[0m"
+
+input_str=$'ls -z 2> /dev/null\necho ${?}\nls 2> /dev/null\necho ${?}'
+diff <(/bin/sh <<< "$input_str" 2>&1) <(../shell <<< "$input_str" 2>&1)
+exit $?

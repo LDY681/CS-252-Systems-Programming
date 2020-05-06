@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+        <title>Restaurant Delivery</title>
+    
+        <!-- Custom styles for this template -->
+        <link href="signin.css" rel="stylesheet">
+    </head>
+    
+    <body class="text-center" >
+        <h1 class="h3 mb-3 font-weight-normal">Welcome to A Restaurant Delivery Finder</h1>
+        <div class="tab">
+          <button class="tablinks active" onclick="changeTab(this,'Restaurant');">Restaurant User</button>
+          <button class="tablinks" onclick="changeTab(this,'Deliverer');">Delivery User</button>
+        </div>
+        <div class="signin" id="rest">
+
+            
+            <!--here are two text box-->
+            <table class="inputtable">
+              <tr>
+                <td><label>Restaurant Email:</label></td>
+                <td><input class="form-control" type="email" id="remail" placeholder="email@example.com"></td>
+              </tr>
+              <tr>
+                <td><label>Password:</label></td>
+                <td><input class="form-control" type="password" id="rpass" placeholder="Password"></td>
+              </tr>
+            </table>
+
+        
+            <button align="center" onclick="loginUser('rest');"type="button" class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+            <button align="center" onclick="createUser('rest');" type="button" class="btn btn-lg btn-primary btn-block" type="submit">Sign up</button>  
+        </div>
+
+        <div class="signin" id="deliv" style="display:none;">
+
+            
+            <!--here are two text box-->
+            <table class="inputtable">
+              <tr>
+                <td><label>Deliverer Email:</label></td>
+                <td><input class="form-control" type="email" id="demail" placeholder="email@example.com"></td>
+              </tr>
+              <tr>
+                <td><label>Password:</label></td>
+                <td><input class="form-control" type="password" id="dpass" placeholder="Password"></td>
+              </tr>
+            </table>
+
+        
+            <button align="center" onclick="loginUser('deliv')"type="button" class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+            <button align="center" onclick="createUser('deliv');" type="button" class="btn btn-lg btn-primary btn-block" type="submit">Sign up</button>  
+        </div>
+
+
+    <script src="https://www.gstatic.com/firebasejs/5.5.9/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+          apiKey: "AIzaSyBbri7D2ax0Se_nPwPt_nat70T61rsYxbc",
+          authDomain: "restuarant-delivery.firebaseapp.com",
+          databaseURL: "https://restuarant-delivery.firebaseio.com",
+          projectId: "restuarant-delivery",
+          storageBucket: "restuarant-delivery.appspot.com",
+          messagingSenderId: "538676791829"
+        };
+        firebase.initializeApp(config);
+    </script>
+
+    <script src="login.js"></script>
+
+    <script>
+      function changeTab(element,userType){
+        var tabcont = document.getElementsByClassName("tablinks");
+        var tabclass = document.getElementsByClassName("signin");
+        for(var i = 0; i < tabclass.length; i++){
+          tabclass[i].style.display = "none";
+        }
+        if(userType == "Restaurant"){
+          document.getElementById("rest").style.display = "block";
+        } else {
+          document.getElementById("deliv").style.display = "block";
+        }
+        for(var i = 0; i < tabcont.length; i++){
+          tabcont[i].className = "tablinks";
+        }
+        element.className += " active"
+      }
+    </script>
+    
+  </body>
+</html>

@@ -1,0 +1,85 @@
+html,
+body {
+  height: 100%;
+  background-color: antiquewhite;
+  color: cadetblue;
+}
+
+body {
+  text-align: center;
+  align-items: center;
+  padding-top: 250px;
+  padding-bottom: 250px;
+  vertical-align: middle;
+}
+
+
+
+.tab {
+    overflow: hidden;
+    padding-bottom: 20px; 
+}
+
+.tab button {
+    border: grey;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    padding-bottom: 15px;
+    transition: 0.3s;
+    color: cadetblue;
+    font-size: 20px;
+}
+
+.signin button {
+  color: cadetblue;
+}
+
+.tab button:hover {
+    background-color: #ddd;
+    
+}
+
+
+.tab button.active {
+    background-color: #ccc;
+}
+
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.signin .inputtable{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    color: cadetblue;
+    
+}
+
+.signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  width: 300px;
+  padding: 10px;
+  color: cadetblue;
+  font-size: 16px;
+}
+.signin .form-control:focus {
+  z-index: 2;
+}
+.signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}

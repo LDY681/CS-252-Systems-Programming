@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -e "\033[1;4;93m\tTilde Expansion\033[0m"
+
+input_str=$'ls ~ \nls ~cs180\nls ~cs180/share'
+diff <(/bin/bash <<< "$input_str" 2>&1) <(../shell <<< "$input_str" 2>&1)
+exit $?

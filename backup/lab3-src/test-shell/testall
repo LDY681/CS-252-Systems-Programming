@@ -1,0 +1,279 @@
+#!/bin/bash
+opt="ALL"
+grade=0
+grade_max=0
+totalmax=0
+
+# test runner
+# parameters: testname testpoints
+run_test () {
+    test_name=$1
+    test_pts=$2
+    grade_max=$(echo "$grade_max + $test_pts" | bc)
+    totalmax=$(echo  "$totalmax + $test_pts" | bc)
+    if [[ $opt == "test" ]]; then
+        # if running a single test, show all the output
+        echo -e "\033[1;33m\n$test_name\033[0m"
+        ./$test_name
+        res=$?
+    else
+        # if running the testall, don't show all the output,
+        # it's too much to read
+        echo -e "\033[1;33m\n$test_name\t$test_pts pts\033[0m"
+        t=$(./$test_name)
+        res=$?
+    fi
+    if [ $res -ne 0 ] 
+    then
+        echo -e "\033[1;31m$test_name Failed\033[0m"
+    else
+        echo -e "\033[1;32m$test_name Passed\033[0m"
+        grade=$(echo "$grade + $test_pts" | bc)
+    fi
+}
+
+# Check for parameter (and validity)
+if [ $# -gt 0 ]; then
+  if [[ $1 == "p1" || $1 == "p2" || $1 == "p3" ]]; then
+    opt=$1
+  else
+      opt="test"
+    run_test $1 0
+    exit 0
+  fi
+fi
+
+# clear global vars before each section so they assign points per section
+clear_vars () {
+    grade=0
+    grade_max=0
+}
+
+# pretty print the start of sections
+section_start () {
+    echo -e "\033[1;34m=== $1 Start === \033[0m"
+}
+
+# pretty print the end of sections
+section_end () {
+    echo -e "\033[1;34m\n=== $1 End ===== ($grade / $grade_max pts) \n\033[0m"
+}
+
+################
+# Part 1 Tests #
+################
+
+if [[ $opt == "p1" || $opt == "ALL" ]]; then
+    section_start "IO Redirection"                  #10 # PART 1 = 20
+    clear_vars
+    run_test test_redirect_input        2
+    run_test test_redirect_output       2
+    run_test test_redirect_error        1
+    run_test test_redirect_error2       1
+    run_test test_redirect_out_err      2
+    run_test test_redirect_multiple     1
+    run_test test_append_output         1
+    grade1=$grade
+    grade1max=$grade_max
+    section_end "IO Redirection"
+
+    section_start "Pipes"                           #8
+    clear_vars
+    run_test test_pipes1                2
+    run_test test_pipes2                2
+    run_test test_pipes_redirect_out    2
+    run_test test_pipes_redirect_err    2
+    grade2=$grade
+    grade2max=$grade_max
+    section_end "Pipes"
+
+    section_start "Background Processes"            #2
+    clear_vars
+    run_test test_background            2
+    grade3=$grade
+    grade3max=$grade_max
+    section_end "Background Processes"
+fi
+
+################
+# Part 2 Tests #
+################
+
+if [[ $opt == "p2" || $opt == "ALL" ]]; then
+
+    section_start "Zombie Processes"                #1 #PART 2 = 22
+    clear_vars
+    run_test test_zombie                1
+    grade4=$grade
+    grade4max=$grade_max
+    section_end "Zombie Processes"
+
+    section_start "Builtin Functions"               #4
+    clear_vars
+    run_test test_printenv              1
+    run_test test_setenv		.5
+    run_test test_unsetenv              .5
+    run_test test_source                2
+    grade5=$grade
+    grade5max=$grade_max
+    section_end "Builtin Functions"
+
+    section_start "cd"                              #2
+    clear_vars
+    run_test test_cd1                   .5
+    run_test test_cd2                   .5
+    run_test test_cd3                   .5
+    run_test test_cd4                   .5
+    grade6=$grade
+    grade6max=$grade_max
+    section_end "cd"
+
+    section_start "Parsing Special Chars, Quotes, Escape Chars" #5
+    clear_vars
+    run_test test_parsing1              .5
+    run_test test_parsing2              .5
+    run_test test_quotes1               1
+    run_test test_quotes2               1
+    run_test test_escape                2
+    grade7=$grade
+    grade7max=$grade_max
+    section_end "Parsing Special Chars, Quotes, Escape Chars"
+
+    section_start "Subshell"                        #10
+    clear_vars
+    run_test test_subshell              10
+    grade8=$grade
+    grade8max=$grade_max
+    section_end "Subshell"
+fi
+
+################
+# Part 3 Tests #
+################
+
+if [[ $opt == "p3" || $opt == "ALL" ]]; then
+    section_start "Environment Variable Expansion" # 7 # PART 3 = 28
+    clear_vars
+    run_test test_env_expand1           1
+    run_test test_env_expand2           1
+    run_test test_env_var_shell         1
+    run_test test_env_var_dollar        1
+    run_test test_env_var_question      1
+    run_test test_env_var_bang          1
+    run_test test_env_var_uscore        1
+    grade9=$grade
+    grade9max=$grade_max
+    section_end "Environment Variable Expansion"
+
+    section_start "Wildcarding"                   # 9
+    clear_vars
+    run_test test_wildcards1 $grade11   3
+    run_test test_wildcards2 $grade11   1
+    run_test test_wildcards3 $grade11   1
+    run_test test_wildcards4 $grade11   1
+    run_test test_wildcards5 $grade11   1
+    run_test test_wildcards6 $grade11   1
+    run_test test_wildcards7 $grade11   1
+    grade10=$grade
+    grade10max=$grade_max
+    section_end "Wildcarding"
+
+    section_start "Tilde Expansion"                # 2
+    clear_vars
+    run_test test_tilde $grade12        2
+    grade11=$grade
+    grade11max=$grade_max
+    section_end "Tilde Expansion"
+
+    section_start "Robustness"                      #10
+    clear_vars
+    run_test test_robustness $grade13   10
+    grade12=$grade
+    grade12max=$grade_max
+    section_end "Robustness"
+fi
+
+############################
+# Computing Correct Totals #
+############################
+
+if [[ $opt == "ALL" ]]; then
+    total=`echo "$grade1 + $grade2 + $grade3 + $grade4 + $grade5 + \
+        $grade6 + $grade7 + $grade8 + $grade9 + $grade10 + $grade11 + $grade12" | bc`
+elif [[ $opt == "p1" ]]; then
+    total=`echo "$grade1 + $grade2 + $grade3" | bc`
+elif [[ $opt == "p2" ]]; then
+    total=`echo "$grade4 + $grade5 + $grade6 + $grade7 + $grade8" | bc`
+else # must be p3
+    total=`echo "$grade9 + $grade10 + $grade11 + $grade12" | bc`
+fi
+
+#########################
+# Reporting Final Score #
+#########################
+
+# Header #
+
+echo   "--------------------------------------------------"
+if [[ $opt == "ALL" ]]; then
+    echo    "User:  $USER, CS252: Lab 3 - All Tests"
+elif [[ $opt == "p1" ]]; then
+    echo    "User:  $USER, CS252: Lab 3 - Part 1 Tests"
+elif [[ $opt == "p2" ]]; then
+    echo    "User:  $USER, CS252: Lab 3 - Part 2 Tests"
+else # must be p3
+    echo    "User:  $USER, CS252: Lab 3 - Part 3 Tests"
+fi
+echo   "--------------------------------------------------"
+
+# Scores for Part 1 #
+
+if [[ $opt == "ALL" || $opt == "p1" ]]; then
+    printf "IO Redirection:                  %03.1f%s%03.1f\n" $grade1 " of " $grade1max
+    printf "Pipes:                           %03.1f%s%03.1f\n" $grade2 " of " $grade2max
+    printf "Background Processes:            %03.1f%s%03.1f\n" $grade3 " of " $grade3max
+fi
+
+# Scores for Part 2 #
+
+if [[ $opt == "p2" || $opt == "ALL" ]]; then
+    printf "Zombie Processes:                %03.1f%s%03.1f\n" $grade4 " of " $grade4max
+    printf "Bulitin Functions:               %03.1f%s%03.1f\n" $grade5 " of " $grade5max
+    printf "cd:                              %03.1f%s%03.1f\n" $grade6 " of " $grade6max
+    printf "Extended Parsing:                %03.1f%s%03.1f\n" $grade7 " of " $grade7max
+    printf "Subshell:                        %03.1f%s%03.1f\n" $grade8 " of " $grade8max 
+fi
+
+# Scores for Part 3 #
+
+if [[ $opt == "p3" || $opt == "ALL" ]]; then
+    printf "Environment Variable Expansion:  %03.1f%s%03.1f\n" $grade9 " of " $grade9max
+    printf "Wildcarding:                     %03.1f%s%03.1f\n" $grade10 " of " $grade10max
+    printf "Tilde Expansion:                 %03.1f%s%03.1f\n" $grade11 " of " $grade11max
+    printf "Robustness:                      %03.1f%s%03.1f\n" $grade12 " of " $grade12max
+fi
+
+# Footer + Total Score #
+
+echo   "---------------------------------------------------"
+printf "Testall Total:                   %03.1f%s%03.1f\n" $total " of " $totalmax
+if [[ $opt == "ALL" ]]; then
+    printf "Part 1 In-Lab Checkpoint:        10%% of final grade\n"
+    printf "Part 2 In-Lab Checkpoint:        10%% of final grade\n"
+    printf "Manual Testing Ctrl+C:            2%% of final grade\n"
+    printf "Manual Testing of Line Editor:    8%% of final grade\n"
+    echo   "---------------------------------------------------"
+fi
+
+
+# Write Total Score to File #
+
+if [[ $opt == "ALL" ]]; then
+    printf "Total:                   %03.1f%s%03.1f\n" $total " of " $totalmax > testall.out
+elif [[ $opt == "p1" ]]; then
+    printf "Part 1 Total:            %03.1f%s%03.1f\n" $total " of " $totalmax > testall.out
+elif [[ $opt == "p2" ]]; then
+    printf "Part 2 Total:            %03.1f%s%03.1f\n" $total " of " $totalmax > testall.out
+else
+    printf "Part 3 Total:            %03.1f%s%03.1f\n" $total " of " $totalmax > testall.out
+fi

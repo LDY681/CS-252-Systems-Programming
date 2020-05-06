@@ -1,0 +1,6494 @@
+[master e610228] Lab 2 commit
+ 1 file changed, 36 insertions(+), 1 deletion(-)
+[master 49002df] Lab 2 commit
+ 1 file changed, 10 insertions(+), 9 deletions(-)
+[master 3918a0a] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e94bca8] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7168358] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cad9435] Lab 2 commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 6b174a3] Lab 2 commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+
+nothing added to commit but untracked files present
+[master 032c6e8] Lab 2 commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master dcecc60] Lab 2 commit
+ 1 file changed, 45 insertions(+), 45 deletions(-)
+ rewrite pwcheck.sh (81%)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+[master 5bf960c] Lab 2 commit
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+[master a27ab12] Lab 2 commit
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+[master f5b3f47] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master 39c86ef] Lab 2 commit
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+	testfile~
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.pwcheck.sh.swp
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	out
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+	testfile
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+
+nothing added to commit but untracked files present
+[master c058766] Lab 2 commit
+ 1 file changed, 6 insertions(+)
+[master a8b049c] Lab 2 commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 4d65b2d] Lab 2 commit
+ 1 file changed, 1 insertion(+)
+[master 64ea777] Lab 2 commit
+ 1 file changed, 10 insertions(+), 6 deletions(-)
+[master 71c570d] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b00d96c] Lab 2 commit
+ 1 file changed, 21 insertions(+), 12 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+[master b2abc8c] Lab 2 commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master e3ca4a7] Lab 2 commit
+ 1 file changed, 8 insertions(+), 5 deletions(-)
+[master ff711c7] Lab 2 commit
+ 1 file changed, 2 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+[master e9f2c25] Lab 2 commit
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+[master 8d342f8] Lab 2 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master defb8ab] Lab 2 commit
+ 1 file changed, 10 insertions(+), 2 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+
+nothing added to commit but untracked files present
+[master 752b8ac] Lab 2 commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	runtests.sh
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.pwcheck.sh.swn
+	.pwcheck.sh.swo
+	.testfile.swi
+	.testfile.swj
+	.testfile.swk
+	.testfile.swl
+	.testfile.swm
+	.testfile.swn
+	.testfile.swo
+	.testfile.swp
+	examples/
+	nano.save
+	passing_arguments.sh.save
+	pwcheck.sh.save
+	reports_dir/
+	runtests.sh
+
+nothing added to commit but untracked files present

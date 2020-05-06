@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -e "\033[1;4;93m\t3 Pipes\033[0m"
+
+input_str=$'cat file1.cc | grep malloc | grep char'
+diff <(/bin/sh <<< "$input_str" 2>&1) <(../shell <<< "$input_str" 2>&1)
+exit $?

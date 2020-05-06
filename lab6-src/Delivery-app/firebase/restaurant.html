@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Delivery app</title>
+    
+    <!-- Bootstrap core CSS -->
+    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="restaurant.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="login.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.5.9/firebase.js"></script>
+  </head>
+
+  <body class="text-center">
+
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+      <header class="masthead mb-auto">
+        <div class="inner">
+            <h3 class="masthead-brand">Restaurant Delivery Finder</h3>
+          <nav class="nav nav-masthead justify-content-center">
+            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" onclick="signOutUser()" href="index.html">Sign out</a>
+          </nav>
+        </div>
+      </header>
+
+      <div style="text-align: center;"><img src="icon.svg" width="172" height="172"></div>
+
+      <main role="main" class="inner cover">
+        <h1 class="cover-heading">Place An Order</h1>
+        <p class="lead">Submit your order & Wait your delivery guy to pickup. </p>
+
+          <!--here is the button-->
+          <button type="button" onclick="document.getElementById('form').style.display='block'" class="button">Submit</button>
+
+          <!--↓↓↓ here is the form after you press post a request (store info into database)-->
+
+          <div id="form" class="modal">
+                <span onclick="document.getElementById('form').style.display='none'" class="close"
+                      title="Close Modal">&times;</span>
+            <form class="modal-content">  <!-- ←←← page after you submit the form -->
+              <div class="container">
+        <p>Please fill out this form to post a delivery request.</p>
+        <hr>
+
+        <label for="rname"><b>Restaurant Name</b></label>
+        <input type="text" placeholder="Restaurant Name" id="rname" required>
+
+        <label for="from02"><b>Restaurant Address</b></label>
+        <input type="text" placeholder="Restaurant Address" id="from02" required>
+
+        <label for="phone1"><b>Restaurant Phone Number</b></label>
+        <input type="text" placeholder="Phone Number" id="phone1" required>
+
+        <label for="name"><b>Customer Name</b></label>
+        <input type="text" placeholder="Name" id="name" required>
+
+        <label for="phone2"><b>Customer Phone Number</b></label>
+        <input type="text" placeholder="Phone Number" id="phone2" required>
+
+        <label for="to02"><b>Customer Address</b></label>
+        <input type="text" placeholder="Customer Address" id="to02" required>
+
+
+        <div class="clearfix">
+          <button type="button" onclick="document.getElementById('form').style.display='none'"
+                  class="cancelbtn">Cancel
+          </button>
+          <button id="requestSubmit" type="button"
+                  onclick="document.getElementById('form').style.display='none';"
+                  class="signupbtn">Submit
+          </button>
+        </div>
+    </div>
+    </form>
+    </div>
+          <!--To here-->
+
+        </p>
+      </main>
+
+      <footer class="mastfoot mt-auto">
+        <div class="inner">
+        </div>
+      </footer>
+    </div>
+
+
+
+    <script src="https://www.gstatic.com/firebasejs/5.5.9/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+          apiKey: "AIzaSyBbri7D2ax0Se_nPwPt_nat70T61rsYxbc",
+          authDomain: "restuarant-delivery.firebaseapp.com",
+          databaseURL: "https://restuarant-delivery.firebaseio.com",
+          projectId: "restuarant-delivery",
+          storageBucket: "restuarant-delivery.appspot.com",
+          messagingSenderId: "538676791829"
+        };
+        firebase.initializeApp(config);
+    </script>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    
+    <script src="assets/js/vendor/popper.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
+    <script src="assets/js/vendor/holder.min.js"></script>
+    <script src="submit.js"></script>
+    
+  </body>
+</html>

@@ -1,0 +1,23 @@
+#!/bin/bash
+
+rm -f err1 err2
+echo -e "\033[1;4;93m\tls notfound >& err\033[0m"
+
+# test single right angle bracket handling
+sh_in=$'/bin/ls notfound > err1 2>&1'
+shell_in=$'/bin/ls notfound >& err2'
+
+diff <(/bin/sh <<< "$sh_in" 2>&1; cat err1) <(../shell <<< "$shell_in" 2>&1 ; cat err2)
+res=$?
+if [ $res -ne 0 ]; then
+  exit $res
+fi
+
+rm -f err1 err2
+
+# test double right angle bracket handling
+sh_in=$'/bin/ls notfound >> err1 2>&1'
+shell_in=$'/bin/ls notfound >>& err2'
+
+diff <(/bin/sh <<< "$sh_in" 2>&1; cat err1) <(../shell <<< "$shell_in" 2>&1 ; cat err2)
+exit $?

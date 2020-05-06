@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo -e "\033[1;4;93mTest_printenv: Environment - Print Environment Variables\033[0m"
+
+sh_in=$'/usr/bin/printenv | grep BVAR'
+shell_in=$'printenv | grep BVAR'
+
+# Make another environment variable that both shell processes inherit
+BVAR="WeChangedItForFinalGradingAndMadeItLonger"
+export BVAR
+
+diff <(/bin/sh <<< "$sh_in" 2>&1) <(PATH=/bin ../shell <<< "$shell_in" 2>&1)
+exit $?

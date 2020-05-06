@@ -1,0 +1,10 @@
+#!/bin/bash
+
+rm -f out1 out2
+echo -e "\033[1;4;93m\tError Output Redirection\033[0m"
+
+sh_in=$'ls -z 2> out1'
+shell_in=$'ls -z 2> out2'
+
+diff <(/bin/sh <<< "$sh_in"; cat out1) <(../shell <<< "$shell_in"; cat out2)
+exit $?

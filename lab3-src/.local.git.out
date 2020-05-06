@@ -1,0 +1,1637 @@
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	out
+
+nothing added to commit but untracked files present
+M	Makefile
+Your branch is up to date with 'origin/master'.
+[master a60504e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	out
+	shell
+
+nothing added to commit but untracked files present
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master ec0dca1] Commit
+ 1 file changed, 27 insertions(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	out
+	shell
+
+nothing added to commit but untracked files present
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 2af8fc5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 11853b3] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	command.hh
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master d82a6b9] Commit
+ 2 files changed, 22 insertions(+), 1 deletion(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master c7c1d52] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master cd28c70] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.nfs0000000000c26e160001efc7
+	out
+	shell
+
+nothing added to commit but untracked files present
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master e1aa612] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 4e1648d] Commit
+ 1 file changed, 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 1e1fd44] Commit
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 4db5b0f] Commit
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 1b6978a] Commit
+ 1 file changed, 4 insertions(+)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 970854f] Commit
+ 1 file changed, 20 insertions(+), 1 deletion(-)
+M	command.cc
+M	command.hh
+M	shell.y
+M	test-shell/README
+M	test-shell/file1.cc
+M	test-shell/test_append_output
+M	test-shell/test_background
+M	test-shell/test_cd4
+M	test-shell/test_env_expand1
+M	test-shell/test_env_expand2
+M	test-shell/test_env_var_bang
+M	test-shell/test_env_var_dollar
+M	test-shell/test_env_var_question
+M	test-shell/test_env_var_uscore
+M	test-shell/test_printenv
+M	test-shell/test_quotes1
+M	test-shell/test_quotes2
+M	test-shell/test_redirect_error
+M	test-shell/test_robustness
+M	test-shell/test_setenv
+M	test-shell/test_source
+M	test-shell/test_subshell
+M	test-shell/test_unsetenv
+M	test-shell/test_wildcards7
+M	test-shell/test_zombie
+M	test-shell/testall
+D	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 5f512e1] Commit
+ 27 files changed, 123 insertions(+), 63 deletions(-)
+ mode change 100755 => 100644 test-shell/README
+ mode change 100755 => 100644 test-shell/file1.cc
+ rewrite test-shell/test_printenv (73%)
+ delete mode 100644 test-shell/testall.out
+M	command.hh
+Your branch is up to date with 'origin/master'.
+[master be1d2de] Commit
+ 1 file changed, 11 insertions(+)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 1bd46e0] Commit
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master bcda48d] Commit
+ 1 file changed, 38 insertions(+), 15 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 31866d4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master f12b7f5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.nfs0000000000c26e150001eff0
+	.nfs0000000000c26e160001efc7
+	.nfs0000000000c26e1a0001f045
+	.nfs0000000000c26e220001f013
+	out
+	shell
+
+nothing added to commit but untracked files present
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 2a8c4bb] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master e720e6a] Commit
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master d6db385] Commit
+ 1 file changed, 6 insertions(+), 7 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master e9b0ad5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master ae1e78a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 2fc93fa] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 99baca3] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 5d6a785] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.nfs0000000000c26e140001f402
+	.nfs0000000000c26e150001eff0
+	.nfs0000000000c26e160001efc7
+	.nfs0000000000c26e1a0001f045
+	.nfs0000000000c26e220001f013
+	out
+
+nothing added to commit but untracked files present
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master e4fe813] Commit
+ 2 files changed, 4 insertions(+)
+ create mode 100644 test-shell/testall.out
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 2092283] Commit
+ 1 file changed, 8 insertions(+), 4 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 8d7ad74] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master d3a1f5f] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master fe1ded3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 9b0df3b] Commit
+ 1 file changed, 14 insertions(+), 6 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 3482e6d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master c71a694] Commit
+ 1 file changed, 1 insertion(+)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master e6f54b5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master ee1e5ac] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 498397b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master ac5141d] Commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 5be2a45] Commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 2106565] Commit
+ 2 files changed, 3 insertions(+), 6 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 771a26f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 9c1cf89] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 6155bf0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 99efd30] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master e15df24] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 02662e9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 67389d5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.out.swp
+	out
+	outfile
+
+nothing added to commit but untracked files present
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 5a62b26] Commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master ee617c9] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 83a48d7] Commit
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master fc0b85c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master be40c66] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 4d936f2] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.command.cc.swp
+	.local.git.out
+	.out.swo
+	.out.swp
+	out
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 3728062] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 88009a5] Commit
+ 2 files changed, 7 insertions(+), 7 deletions(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master e0284bf] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	out
+	outfile
+	"test-shell/\""
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	shell.l
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 251c896] Commit
+ 2 files changed, 12 insertions(+), 3 deletions(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 6f8a5aa] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master 923e019] Commit
+ 1 file changed, 11 insertions(+), 2 deletions(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master 2cbc040] Commit
+ 1 file changed, 14 insertions(+)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master 5ddeed8] Commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master e18282f] Commit
+ 1 file changed, 20 insertions(+), 40 deletions(-)
+ rewrite shell.cc (63%)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c26e19000259f5
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	out
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c26e19000259f5
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	out
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c26e19000259f5
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	out
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c26e19000259f5
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	out
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	command.cc
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 9ac5b28] Commit
+ 2 files changed, 13 insertions(+), 12 deletions(-)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 5475918] Commit
+ 2 files changed, 11 insertions(+), 2 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master cd51f2f] Commit
+ 1 file changed, 2 insertions(+)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 707f757] Commit
+ 1 file changed, 5 insertions(+)
+M	command.cc
+M	command.hh
+Your branch is up to date with 'origin/master'.
+[master 5f7af53] Commit
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 80fb24c] Commit
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master efdda98] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+M	command.hh
+Your branch is up to date with 'origin/master'.
+[master f0a9b2f] Commit
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 70faaa8] Commit
+ 1 file changed, 19 insertions(+), 3 deletions(-)
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 8c42c29] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master c7f6680] Commit
+ 2 files changed, 16 insertions(+), 11 deletions(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 0625485] Commit
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+M	command.cc
+M	command.hh
+M	shell.y
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master b2c26f1] Commit
+ 4 files changed, 1 insertion(+), 22 deletions(-)
+M	shell.y
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 6612224] Commit
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 26ec382] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 610f70d] Commit
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 6c589e6] Commit
+ 2 files changed, 35 insertions(+), 3 deletions(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master ca13d9a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 9ab6157] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master b402ac9] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master 9914c72] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c2bebe00027fb5
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c2bebe00027fb5
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c2bebe00027fb5
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c2bebe00027fb5
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master e1b9d04] Commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master d4aa8f5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master fddd7ce] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master 89e6d7e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master 13c923a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c2bebe00027fb5
+	.nfs0000000000c2bed900027fb8
+	.nfs0000000000c2bedb00027fbb
+	.nfs0000000000c2bee200027fc4
+	.nfs0000000000c2bee700027fb9
+	.nfs0000000000c2bf8f00027fc3
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c2bebe00027fb5
+	.nfs0000000000c2bed900027fb8
+	.nfs0000000000c2bedb00027fbb
+	.nfs0000000000c2bee200027fc4
+	.nfs0000000000c2bee700027fb9
+	.nfs0000000000c2bf8f00027fc3
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c2bebe00027fb5
+	.nfs0000000000c2bed900027fb8
+	.nfs0000000000c2bedb00027fbb
+	.nfs0000000000c2bee200027fc4
+	.nfs0000000000c2bee700027fb9
+	.nfs0000000000c2bf8f00027fc3
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master b412f83] Commit
+ 1 file changed, 15 insertions(+)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c2bebe00027fb5
+	.nfs0000000000c2bed900027fb8
+	.nfs0000000000c2bedb00027fbb
+	.nfs0000000000c2bee200027fc4
+	.nfs0000000000c2bee700027fb9
+	.nfs0000000000c2bf8f00027fc3
+	.nfs0000000000c2bf9000027ff0
+	.nfs0000000000c2bf9e00027ffc
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 75d6eb1] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 8809944] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 968a9d7] Commit
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master 534a96f] Commit
+ 1 file changed, 26 insertions(+), 11 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.nfs0000000000c26e14000281d2
+	.nfs0000000000c2bebe00027fb5
+	.nfs0000000000c2bed900027fb8
+	.nfs0000000000c2bedb00027fbb
+	.nfs0000000000c2bee200027fc4
+	.nfs0000000000c2bee700027fb9
+	.nfs0000000000c2bf8f00027fc3
+	.nfs0000000000c2bf9000027ff0
+	.nfs0000000000c2bf9e00027ffc
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	shell
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master 479c993] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 9617141] Commit
+ 2 files changed, 6 insertions(+), 3 deletions(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master e318cd4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master 531d891] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master 1bc2c9c] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 59ba16b] Commit
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master e824d16] Commit
+ 1 file changed, 3 insertions(+), 10 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master ce4983a] Commit
+ 1 file changed, 28 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 0064ade] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 9447290] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 00047df] Commit
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master ad606c4] Commit
+ 1 file changed, 11 insertions(+), 16 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master c3fc92f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 2591e54] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master d5efd2b] Commit
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 40b2d91] Commit
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 3bc77f9] Commit
+ 1 file changed, 12 insertions(+), 9 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 6319eea] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 08f7e05] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master fc39c84] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 399a29b] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master f650cd7] Commit
+ 1 file changed, 13 insertions(+), 16 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master e604650] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 68d49c0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 8af329c] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 98bbc0e] Commit
+ 1 file changed, 2 insertions(+)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master eb60f8c] Commit
+ 2 files changed, 20 insertions(+), 1 deletion(-)
+M	command.hh
+Your branch is up to date with 'origin/master'.
+[master 570b888] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+M	command.hh
+Your branch is up to date with 'origin/master'.
+[master 8412bf4] Commit
+ 2 files changed, 130 insertions(+), 16 deletions(-)
+M	command.cc
+M	command.hh
+M	shell.cc
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 2079302] Commit
+ 4 files changed, 9 insertions(+), 11 deletions(-)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 3c2d207] Commit
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	shell.l
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master a11c275] Commit
+ 2 files changed, 25 insertions(+), 16 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 3c314ad] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master f264787] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 71fa6c5] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 9211891] Commit
+ 1 file changed, 9 insertions(+), 27 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 670e1ea] Commit
+ 1 file changed, 34 insertions(+), 7 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master d79bdd2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master ce09056] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 3dc0efe] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.l
+M	test-shell/test_cd3
+M	test-shell/test_env_var_bang
+M	test-shell/test_env_var_dollar
+M	test-shell/test_env_var_question
+M	test-shell/test_env_var_uscore
+M	test-shell/test_printenv
+M	test-shell/test_robustness
+M	test-shell/test_source
+M	test-shell/test_wildcards7
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master ccfbfc3] Commit
+ 11 files changed, 34 insertions(+), 22 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 2b29395] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 1fa94b4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 7524c5c] Commit
+ 1 file changed, 1 insertion(+)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 00098b6] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master e05b3b1] Commit
+ 1 file changed, 5 insertions(+), 7 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master f45da04] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master b4218d6] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 8ff25e6] Commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 3798071] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 8902560] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 0cb1282] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 7ca58ce] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 6d56911] Commit
+ 1 file changed, 50 insertions(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 82a9b23] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 1560822] Commit
+ 1 file changed, 9 insertions(+), 5 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master fbb0edd] Commit
+ 1 file changed, 7 insertions(+), 6 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 29c730f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 09b7314] Commit
+ 1 file changed, 1 insertion(+)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 0f47ad9] Commit
+ 1 file changed, 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master d9d1214] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master f54365f] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 962ea82] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 0b2b268] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 1e347c3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master e6171d9] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 888a63e] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 2191ad4] Commit
+ 1 file changed, 1 insertion(+)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master a07ecbf] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master c8dffe9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+M	shell.l
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 12f2a13] Commit
+ 3 files changed, 20 insertions(+), 16 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master e7d28e2] Commit
+ 1 file changed, 6 insertions(+), 3 deletions(-)
+M	command.hh
+Your branch is up to date with 'origin/master'.
+[master 78fd039] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master dc13b66] Commit
+ 2 files changed, 16 insertions(+), 13 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 24bc2dc] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master caafaed] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master fcb9978] Commit
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master d818b99] Commit
+ 2 files changed, 4 insertions(+), 6 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master f0df309] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master c9103a0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master c839d3d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.cc
+Your branch is up to date with 'origin/master'.
+[master c7a584e] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master ae4fa69] Commit
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 0663435] Commit
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master cdfe7c4] Commit
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 6ff3104] Commit
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+M	shell.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master be98fe3] Commit
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 0c17c51] Commit
+ 2 files changed, 8 insertions(+), 4 deletions(-)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 0bef785] Commit
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 91c9c12] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master c6d2ccb] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 540c992] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master e794040] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master c0ed25f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 2ee3ede] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dir
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/dir
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+	test-shell/shell.l
+
+nothing added to commit but untracked files present
+M	command.cc
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 7ae453e] Commit
+ 2 files changed, 8 insertions(+), 14 deletions(-)
+M	simpleCommand.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master fa483ea] Commit
+ 2 files changed, 11 insertions(+), 3 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 6e5e40e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 7dae68d] Commit
+ 1 file changed, 5 insertions(+), 9 deletions(-)
+M	simpleCommand.cc
+M	simpleCommand.hh
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 20e713d] Commit
+ 3 files changed, 18 insertions(+), 3 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 606f43e] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 4a34ef9] Commit
+ 1 file changed, 7 insertions(+), 4 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 9acc694] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 43d5516] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 18836f2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 7c37edb] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 3ea47af] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 10c209a] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 2f56f1c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 88f4962] Commit
+ 1 file changed, 12 insertions(+), 6 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master c2197d4] Commit
+ 1 file changed, 20 insertions(+), 7 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 843bf94] Commit
+ 1 file changed, 12 insertions(+), 8 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 777875a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master aa7b1d6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master d05e1e4] Commit
+ 1 file changed, 75 deletions(-)
+ rewrite simpleCommand.cc (100%)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 8d15437] Commit
+ 1 file changed, 75 insertions(+)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 7631022] Commit
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 9299e5d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 3878a88] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 3dcbf07] Commit
+ 1 file changed, 7 insertions(+), 2 deletions(-)
+M	simpleCommand.hh
+Your branch is up to date with 'origin/master'.
+[master 2850dea] Commit
+ 1 file changed, 2 insertions(+)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master ae52e41] Commit
+ 1 file changed, 6 insertions(+), 5 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 13667c8] Commit
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 9383851] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.dog.swo
+	.dog.swp
+	.err.swo
+	.err.swp
+	.local.git.out
+	.out.swp
+	.out2.swo
+	.out2.swp
+	dir
+	dog
+	err
+	examples/.test.cc.swp
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/regular
+	examples/test
+	examples/test.cc
+	out
+	out1
+	out2
+	outfile
+	"test-shell/\""
+	test-shell/.test_redirect_multiple.swp
+	test-shell/dir
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+	test-shell/shell.l
+
+nothing added to commit but untracked files present
+M	simpleCommand.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master f2d0ed7] Commit
+ 2 files changed, 12 insertions(+), 7 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 74600ae] Commit
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master bda3dc7] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 7b67bb9] Commit
+ 1 file changed, 3 insertions(+), 6 deletions(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master e827041] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 6565c61] Commit
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 284f317] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	simpleCommand.cc
+Your branch is up to date with 'origin/master'.
+[master 79f7c1e] Commit
+ 1 file changed, 39 insertions(+), 43 deletions(-)

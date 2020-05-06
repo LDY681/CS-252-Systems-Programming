@@ -1,0 +1,790 @@
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+
+nothing added to commit but untracked files present
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 9f3bf66] Commit
+ 1 file changed, 17 insertions(+), 3 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 9ebc8ec] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e523db9] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 95a730f] Commit
+ 1 file changed, 9 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e483065] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 65dcab4] Commit
+ 1 file changed, 67 insertions(+), 18 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 266c19c] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6fd0ef8] Commit
+ 1 file changed, 3 insertions(+), 77 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2cff95d] Commit
+ 1 file changed, 78 insertions(+), 3 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	tests/.nfs0000000000c2afea000069da
+	tests/.nfs0000000000c2b0bc000065e3
+
+nothing added to commit but untracked files present
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e272902] Commit
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	tests/.nfs0000000000c2afea000069da
+	tests/.nfs0000000000c2b0bc000065e3
+
+nothing added to commit but untracked files present
+D	examples/composite_ex
+D	examples/constructor_ex
+M	myMalloc.c
+D	tests/test_all_lists
+D	tests/test_coalesce_chunk_coalesce
+D	tests/test_coalesce_chunk_insert
+D	tests/test_corrupted_canary
+D	tests/test_double_free
+D	tests/test_exact
+D	tests/test_free_both
+D	tests/test_free_even
+D	tests/test_free_insert
+D	tests/test_free_left
+D	tests/test_free_null
+D	tests/test_free_odd
+D	tests/test_free_right
+D	tests/test_insert_chunk
+D	tests/test_large
+D	tests/test_locks
+D	tests/test_malloc_large
+D	tests/test_malloc_too_large
+D	tests/test_malloc_zero
+D	tests/test_multi_malloc
+D	tests/test_out_of_ram
+D	tests/test_random
+D	tests/test_random_sizes
+D	tests/test_simple0
+D	tests/test_simple1
+D	tests/test_simple2
+D	tests/test_simple3
+D	tests/test_simple4
+D	tests/test_simple5
+D	tests/test_simple6
+D	tests/test_split
+D	tests/test_verify
+D	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 9328575] Commit
+ 37 files changed, 89 insertions(+), 41 deletions(-)
+ delete mode 100755 examples/composite_ex
+ delete mode 100755 examples/constructor_ex
+ delete mode 100755 tests/test_all_lists
+ delete mode 100755 tests/test_coalesce_chunk_coalesce
+ delete mode 100755 tests/test_coalesce_chunk_insert
+ delete mode 100755 tests/test_corrupted_canary
+ delete mode 100755 tests/test_double_free
+ delete mode 100755 tests/test_exact
+ delete mode 100755 tests/test_free_both
+ delete mode 100755 tests/test_free_even
+ delete mode 100755 tests/test_free_insert
+ delete mode 100755 tests/test_free_left
+ delete mode 100755 tests/test_free_null
+ delete mode 100755 tests/test_free_odd
+ delete mode 100755 tests/test_free_right
+ delete mode 100755 tests/test_insert_chunk
+ delete mode 100755 tests/test_large
+ delete mode 100755 tests/test_locks
+ delete mode 100755 tests/test_malloc_large
+ delete mode 100755 tests/test_malloc_too_large
+ delete mode 100755 tests/test_malloc_zero
+ delete mode 100755 tests/test_multi_malloc
+ delete mode 100755 tests/test_out_of_ram
+ delete mode 100755 tests/test_random
+ delete mode 100755 tests/test_random_sizes
+ delete mode 100755 tests/test_simple0
+ delete mode 100755 tests/test_simple1
+ delete mode 100755 tests/test_simple2
+ delete mode 100755 tests/test_simple3
+ delete mode 100755 tests/test_simple4
+ delete mode 100755 tests/test_simple5
+ delete mode 100755 tests/test_simple6
+ delete mode 100755 tests/test_split
+ delete mode 100755 tests/test_verify
+ delete mode 100755 tests/test_very_large
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 0e4af50] Commit
+ 1 file changed, 39 insertions(+)
+D	examples/composite_ex
+D	examples/constructor_ex
+D	tests/.nfs0000000000c2afea000069da
+D	tests/.nfs0000000000c2b0bc000065e3
+D	tests/.nfs0000000000c2b0c400006d83
+D	tests/test_all_lists
+D	tests/test_coalesce_chunk_coalesce
+D	tests/test_coalesce_chunk_insert
+D	tests/test_corrupted_canary
+D	tests/test_double_free
+D	tests/test_exact
+D	tests/test_free_both
+D	tests/test_free_even
+D	tests/test_free_insert
+D	tests/test_free_left
+D	tests/test_free_null
+D	tests/test_free_odd
+D	tests/test_free_right
+D	tests/test_insert_chunk
+D	tests/test_large
+D	tests/test_locks
+D	tests/test_malloc_large
+D	tests/test_malloc_too_large
+D	tests/test_malloc_zero
+D	tests/test_multi_malloc
+D	tests/test_out_of_ram
+D	tests/test_random
+D	tests/test_random_sizes
+D	tests/test_simple0
+D	tests/test_simple1
+D	tests/test_simple2
+D	tests/test_simple3
+D	tests/test_simple4
+D	tests/test_simple5
+D	tests/test_simple6
+D	tests/test_split
+D	tests/test_verify
+D	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 6c6a64d] Commit
+ 39 files changed, 39 insertions(+)
+ delete mode 100755 examples/composite_ex
+ delete mode 100755 examples/constructor_ex
+ delete mode 100755 tests/.nfs0000000000c2afea000069da
+ delete mode 100755 tests/.nfs0000000000c2b0bc000065e3
+ delete mode 100755 tests/.nfs0000000000c2b0c400006d83
+ delete mode 100755 tests/test_all_lists
+ delete mode 100755 tests/test_coalesce_chunk_coalesce
+ delete mode 100755 tests/test_coalesce_chunk_insert
+ delete mode 100755 tests/test_corrupted_canary
+ delete mode 100755 tests/test_double_free
+ delete mode 100755 tests/test_exact
+ delete mode 100755 tests/test_free_both
+ delete mode 100755 tests/test_free_even
+ delete mode 100755 tests/test_free_insert
+ delete mode 100755 tests/test_free_left
+ delete mode 100755 tests/test_free_null
+ delete mode 100755 tests/test_free_odd
+ delete mode 100755 tests/test_free_right
+ delete mode 100755 tests/test_insert_chunk
+ delete mode 100755 tests/test_large
+ delete mode 100755 tests/test_locks
+ delete mode 100755 tests/test_malloc_large
+ delete mode 100755 tests/test_malloc_too_large
+ delete mode 100755 tests/test_malloc_zero
+ delete mode 100755 tests/test_multi_malloc
+ delete mode 100755 tests/test_out_of_ram
+ delete mode 100755 tests/test_random
+ delete mode 100755 tests/test_random_sizes
+ delete mode 100755 tests/test_simple0
+ delete mode 100755 tests/test_simple1
+ delete mode 100755 tests/test_simple2
+ delete mode 100755 tests/test_simple3
+ delete mode 100755 tests/test_simple4
+ delete mode 100755 tests/test_simple5
+ delete mode 100755 tests/test_simple6
+ delete mode 100755 tests/test_split
+ delete mode 100755 tests/test_verify
+ delete mode 100755 tests/test_very_large
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2b7b7f0] Commit
+ 2 files changed, 44 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 268eb39] Commit
+ 2 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e06a180] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 9ed4b29] Commit
+ 2 files changed, 38 insertions(+), 8 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e9e19dd] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2c6fe31] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master f9b12ff] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 49a0042] Commit
+ 2 files changed, 16 insertions(+), 10 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master bb0f4f4] Commit
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ddee1cb] Commit
+ 2 files changed, 26 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 8dc5668] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 1e05fc1] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a6c472b] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master ecd0188] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ef36273] Commit
+ 2 files changed, 18 insertions(+), 8 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 9a39dc7] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 815de12] Commit
+ 2 files changed, 68 insertions(+), 19 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 543689e] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6e6b4d5] Commit
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 21ea572] Commit
+ 2 files changed, 17 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 1f68fe6] Commit
+ 2 files changed, 7 insertions(+), 82 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 74c3d32] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 0d116ec] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 22f3c1f] Commit
+ 2 files changed, 81 insertions(+), 13 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 0ce197c] Commit
+ 2 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master e46d0d9] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2ca30c6] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master dacd229] Commit
+ 2 files changed, 98 insertions(+), 26 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master caa0108] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 59a96b9] Commit
+ 2 files changed, 12 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 70bfe79] Commit
+ 2 files changed, 37 insertions(+), 32 deletions(-)
+M	.local.git.out
+M	tests/testsrc/test_simple5.c
+Your branch is up to date with 'origin/master'.
+[master 246f646] Commit
+ 2 files changed, 8 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 7fef653] Commit
+ 2 files changed, 13 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 457aa6e] Commit
+ 2 files changed, 25 insertions(+), 10 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ed67cb2] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 174bac5] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 01790cc] Commit
+ 2 files changed, 26 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 12b4835] Commit
+ 2 files changed, 12 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 82a7291] Commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	tests/testsrc/test_simple5.c
+Your branch is up to date with 'origin/master'.
+[master 4f84cea] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	tests/testsrc/test_simple5.c
+Your branch is up to date with 'origin/master'.
+[master 2a66917] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master e11e6da] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/testsrc/test_simple5.c
+Your branch is up to date with 'origin/master'.
+[master 6863cd9] Commit
+ 3 files changed, 31 insertions(+), 19 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2de0256] Commit
+ 2 files changed, 9 insertions(+), 4 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 355e46b] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 32c164b] Commit
+ 2 files changed, 8 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 44f35f0] Commit
+ 2 files changed, 9 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a8ed8db] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 265b43e] Commit
+ 2 files changed, 13 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 585a35c] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6559ebd] Commit
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master ad245d1] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	tests/testsrc/test_double_free.c
+Your branch is up to date with 'origin/master'.
+[master 13c5b5d] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	tests/testsrc/test_double_free.c
+Your branch is up to date with 'origin/master'.
+[master 6fdaaca] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 635e0e4] Commit
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a60d1c3] Commit
+ 2 files changed, 9 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master fc8c195] Commit
+ 2 files changed, 10 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 73cf477] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ea88a1f] Commit
+ 2 files changed, 10 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6b54111] Commit
+ 2 files changed, 10 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 3563758] Commit
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 653a97b] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b2ee068] Commit
+ 2 files changed, 15 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master fa8b653] Commit
+ 2 files changed, 7 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c21db94] Commit
+ 2 files changed, 7 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a0b8607] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 4d9a3f5] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4a71c2b] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master eb78622] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 61b49c6] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 5fd5ced] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	tests/testsrc/test_simple5.c
+Your branch is up to date with 'origin/master'.
+[master 3d91037] Commit
+ 2 files changed, 8 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	tests/testsrc/test_simple5.c
+Your branch is up to date with 'origin/master'.
+[master 17f77fc] Commit
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 8b62450] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master dc3e310] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/testsrc/test_simple5.c
+Your branch is up to date with 'origin/master'.
+[master e2a9cc6] Commit
+ 3 files changed, 44 insertions(+), 16 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6632299] Commit
+ 2 files changed, 30 insertions(+), 40 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6b34ec8] Commit
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 9d2ba85] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master dd4bb00] Commit
+ 2 files changed, 13 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 9d97ef7] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 33ce62b] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 967f48b] Commit
+ 2 files changed, 42 insertions(+), 32 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 862acdc] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c6f9219] Commit
+ 2 files changed, 12 insertions(+), 64 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 9250a26] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master d6bed13] Commit
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 1637e51] Commit
+ 1 file changed, 4 insertions(+)
+M	.local.git.out
+M	tests/Makefile
+Your branch is up to date with 'origin/master'.
+[master 7c33a73] Commit
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 75323a3] Commit
+ 2 files changed, 8 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4e566e1] Commit
+ 2 files changed, 14 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master acad221] Commit
+ 2 files changed, 39 insertions(+), 17 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6db4024] Commit
+ 2 files changed, 11 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f67d773] Commit
+ 2 files changed, 9 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 8a812a2] Commit
+ 2 files changed, 9 insertions(+), 4 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 07c2942] Commit
+ 1 file changed, 4 insertions(+)
+D	examples/composite_ex
+D	examples/constructor_ex
+D	tests/.nfs0000000000c2b40e00009051
+D	tests/.nfs0000000000c2b4330000905a
+D	tests/.nfs0000000000c2b55b00009097
+D	tests/.nfs0000000000c2b56f000090c9
+D	tests/.nfs0000000000c2b57a000090ca
+D	tests/test_all_lists
+D	tests/test_coalesce_chunk_coalesce
+D	tests/test_coalesce_chunk_insert
+D	tests/test_corrupted_canary
+D	tests/test_double_free
+D	tests/test_exact
+D	tests/test_free_both
+D	tests/test_free_even
+D	tests/test_free_insert
+D	tests/test_free_left
+D	tests/test_free_null
+D	tests/test_free_odd
+D	tests/test_free_right
+D	tests/test_insert_chunk
+D	tests/test_large
+D	tests/test_locks
+D	tests/test_malloc_large
+D	tests/test_malloc_too_large
+D	tests/test_malloc_zero
+D	tests/test_multi_malloc
+D	tests/test_out_of_ram
+D	tests/test_random
+D	tests/test_random_sizes
+D	tests/test_simple0
+D	tests/test_simple1
+D	tests/test_simple2
+D	tests/test_simple3
+D	tests/test_simple4
+D	tests/test_simple5
+D	tests/test_simple6
+D	tests/test_split
+D	tests/test_verify
+D	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master f41ad78] Commit
+ 41 files changed, 41 insertions(+)
+ delete mode 100755 examples/composite_ex
+ delete mode 100755 examples/constructor_ex
+ delete mode 100755 tests/.nfs0000000000c2b40e00009051
+ delete mode 100755 tests/.nfs0000000000c2b4330000905a
+ delete mode 100755 tests/.nfs0000000000c2b55b00009097
+ delete mode 100755 tests/.nfs0000000000c2b56f000090c9
+ delete mode 100755 tests/.nfs0000000000c2b57a000090ca
+ delete mode 100755 tests/test_all_lists
+ delete mode 100755 tests/test_coalesce_chunk_coalesce
+ delete mode 100755 tests/test_coalesce_chunk_insert
+ delete mode 100755 tests/test_corrupted_canary
+ delete mode 100755 tests/test_double_free
+ delete mode 100755 tests/test_exact
+ delete mode 100755 tests/test_free_both
+ delete mode 100755 tests/test_free_even
+ delete mode 100755 tests/test_free_insert
+ delete mode 100755 tests/test_free_left
+ delete mode 100755 tests/test_free_null
+ delete mode 100755 tests/test_free_odd
+ delete mode 100755 tests/test_free_right
+ delete mode 100755 tests/test_insert_chunk
+ delete mode 100755 tests/test_large
+ delete mode 100755 tests/test_locks
+ delete mode 100755 tests/test_malloc_large
+ delete mode 100755 tests/test_malloc_too_large
+ delete mode 100755 tests/test_malloc_zero
+ delete mode 100755 tests/test_multi_malloc
+ delete mode 100755 tests/test_out_of_ram
+ delete mode 100755 tests/test_random
+ delete mode 100755 tests/test_random_sizes
+ delete mode 100755 tests/test_simple0
+ delete mode 100755 tests/test_simple1
+ delete mode 100755 tests/test_simple2
+ delete mode 100755 tests/test_simple3
+ delete mode 100755 tests/test_simple4
+ delete mode 100755 tests/test_simple5
+ delete mode 100755 tests/test_simple6
+ delete mode 100755 tests/test_split
+ delete mode 100755 tests/test_verify
+ delete mode 100755 tests/test_very_large
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 20a866b] Commit
+ 1 file changed, 44 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 204575d] Commit
+ 1 file changed, 4 insertions(+)

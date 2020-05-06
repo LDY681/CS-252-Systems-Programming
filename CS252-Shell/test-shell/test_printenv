@@ -1,0 +1,22 @@
+#!/bin/bash
+
+rm -f sh-out shell-out
+
+echo -e "\033[1;4;93mTest_printenv: Environment - Print Environment Variables\033[0m"
+echo "/usr/bin/printenv | grep PATH" > sh-in
+
+#Make sure that printenv is a built in command
+(
+PATH=/bin
+export PATH
+echo "printenv | grep PATH" > shell-in
+)
+
+../shell < shell-in > shell-out
+/bin/sh < sh-in > sh-out
+
+sort shell-out -o shell-out
+sort sh-out -o sh-out
+
+diff shell-out sh-out
+exit $?

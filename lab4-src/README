@@ -1,0 +1,19 @@
+Part2
+Step3: Since two threads are running "parallelly" with printC("C"), the program will keep printing characters in random order
+Step5: Since printC("C") is executed and it's running infinitely before any thread creation, the program will act like no thread is created.
+
+------
+Part4
+					| System Time	| User Time	| Real Time
+pthread_mutex(count)			|0.97s		|1.46s		|1.366s
+spin_lock(count_spin with thr_yield)	|0.25s		|0.48s		|0.402s
+spin_lock(count_spin without thr_yield)	|0s		|3.58s		|1.870s
+
+1.Without thr_yield, spin_lock will stay within the process and keep checking and setting in an almost infinite loop, which costs a lot of user time. while count_spin with thr_yield will give up the cpu.
+2.Spin_lock is implemented more in user space while mutex uses a lot of system calls. SO even though mutex takes less computation power, it costs more system time.
+
+------
+Part6
+\xef\xbe\xad\xde
+./buffer `printf "hellohellohello\xef\xbe\xad\xde"`
+Because set_me is right after buf in memory, and it is int which takes 4 bytes. If our string is 19 length long into a 15 length long buffer, the last 4 bytes in this case \xef\xbe\xad\xde will overwrite to set_me and set_me becomes 0xdeadbeef because it's little endian. 

@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\http-root-dir",
+    "\\http-root-dir\\cgi-bin",
+    "\\http-root-dir\\htdocs\\dir1"
+  ],
+  "SelectedNode": "\\http-root-dir\\cgi-bin\\test-cgi",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,31 @@
+execve("./hello-syscall", ["hello-syscall"], 0x7ffc36922300 /* 54 vars */) = 0
+brk(NULL)                               = 0x55a2df9b3000
+access("/etc/ld.so.nohwcap", F_OK)      = -1 ENOENT (No such file or directory)
+access("/etc/ld.so.preload", R_OK)      = -1 ENOENT (No such file or directory)
+openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+fstat(3, {st_mode=S_IFREG|0644, st_size=206356, ...}) = 0
+mmap(NULL, 206356, PROT_READ, MAP_PRIVATE, 3, 0) = 0x7f05749e0000
+close(3)                                = 0
+access("/etc/ld.so.nohwcap", F_OK)      = -1 ENOENT (No such file or directory)
+openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+read(3, "\177ELF\2\1\1\3\0\0\0\0\0\0\0\0\3\0>\0\1\0\0\0\260\34\2\0\0\0\0\0"..., 832) = 832
+fstat(3, {st_mode=S_IFREG|0755, st_size=2030544, ...}) = 0
+mmap(NULL, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7f05749de000
+mmap(NULL, 4131552, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x7f05743fb000
+mprotect(0x7f05745e2000, 2097152, PROT_NONE) = 0
+mmap(0x7f05747e2000, 24576, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x1e7000) = 0x7f05747e2000
+mmap(0x7f05747e8000, 15072, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS, -1, 0) = 0x7f05747e8000
+close(3)                                = 0
+arch_prctl(ARCH_SET_FS, 0x7f05749df4c0) = 0
+mprotect(0x7f05747e2000, 16384, PROT_READ) = 0
+mprotect(0x55a2de725000, 4096, PROT_READ) = 0
+mprotect(0x7f0574a13000, 4096, PROT_READ) = 0
+munmap(0x7f05749e0000, 206356)          = 0
+write(1, "Hello World without syscall\n", 28) = 28
+write(1, "Hello World with syscall\n", 25) = 25
+fstat(1, {st_mode=S_IFCHR|0620, st_rdev=makedev(136, 0), ...}) = 0
+brk(NULL)                               = 0x55a2df9b3000
+brk(0x55a2df9d4000)                     = 0x55a2df9d4000
+write(1, "Hello World with printf\n", 24) = 24
+exit_group(24)                          = ?
++++ exited with 24 +++

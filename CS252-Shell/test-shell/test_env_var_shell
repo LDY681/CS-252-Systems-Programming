@@ -1,0 +1,8 @@
+#! /bin/bash
+
+echo -e "\033[1;4;93m\tEnvironment Variable Expansion - \${SHELL}\033[0m"
+
+real_path=$(realpath ../shell)
+input_str=$'echo ${SHELL}'
+diff <(echo $real_path) <(../shell <<< "$input_str" 2>&1)
+exit $?

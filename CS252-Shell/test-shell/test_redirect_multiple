@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -e "\033[1;4;93m\tMultiple redirection\033[0m"
+
+input_str=$'ls > out1 > out2'
+diff <( echo "Ambiguous output redirect." ) <(../shell <<< "$input_str" 2>&1)
+exit $?

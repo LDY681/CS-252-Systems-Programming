@@ -1,0 +1,10 @@
+#!/bin/bash
+
+rm -f out1 out2
+echo -e "\033[1;4;93m\tParsing - Words and Special Characters\033[0m"
+
+sh_in=$'ls file1.cc>out1'
+shell_in=$'ls file1.cc>out2'
+
+diff <(../shell <<< "$sh_in" 2>&1; cat out1) <(/bin/sh <<< "$shell_in" 2>&1; cat out2)
+exit $?
